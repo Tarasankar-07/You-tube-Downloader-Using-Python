@@ -10,7 +10,7 @@ This Simple Python script will help you to download high resolution you tube vid
 
 1. Clone the repository:
 
-``
+`https://github.com/Tarasankar-07/You-tube-Downloader-Using-Python.git`
 
 2. Install the required dependencies:
 
