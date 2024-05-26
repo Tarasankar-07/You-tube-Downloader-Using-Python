@@ -5,7 +5,12 @@ This Simple Python script will help you to download high resolution you tube vid
 
 - Download YouTube videos by providing the video URL.
 - Saves the downloaded video in the given specified directory.
+  
+## Tools
 
+* Python 3.7 version or later;
+* Pytube library.
+  
 ## Installation
 
 1. Clone the repository:
